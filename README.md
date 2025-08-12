@@ -7,7 +7,7 @@ A fast, responsive portfolio site for GitHub Pages. Built with plain HTML/CSS/JS
 - Photo: replace `IMG_0779.JPG` if needed (keep the same name or update `index.html`).
 - Resume: the button links to `SarathChandarResume (4).pdf`. Change the filename in `index.html` if you rename it.
 - Social links: update GitHub and LinkedIn URLs in `index.html`.
-- Projects: edit the three sample cards under the `#projects` section.
+// Projects section was removed. If you re-add it, update `index.html` accordingly.
 - Contact email: search for `hello@sarath.dev` and replace with your address.
 
 ## Local preview
