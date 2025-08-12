@@ -32,7 +32,7 @@ img{max-width:100%;display:block}
 .hero-cta{display:flex;gap:.75rem;flex-wrap:wrap}
 .social{display:flex;gap:.5rem;margin-top:1rem}
 .hero-photo{justify-self:end}
-.hero-photo img{border-radius:1rem;border:1px solid var(--border);box-shadow:var(--shadow);object-fit:cover;aspect-ratio:1/1;width:min(280px,38vw)}
+.hero-photo img{border-radius:1rem;border:1px solid var(--border);box-shadow:var(--shadow);width:min(340px,42vw);height:auto}
 
 .section{padding:2.5rem 0}
 .section h2{font-size:1.6rem;margin:0 0 1rem}
