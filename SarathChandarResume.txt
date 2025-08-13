@@ -1,0 +1,96 @@
+SARATH CHANDAR
+Software Engineer Backend
+
+sarathtchander@gmail.com
++91-9962337681
+linkedin.com/in/sarath11
+
+Summary
+======
+Backend engineer with 8+ years of experience building scalable, secure microservices and distributed systems using Java, Spring Boot, Kafka, and cloud platforms (AWS, GCP). Proven track record of modernizing legacy architectures and optimizing big data workflows with Spark on BigQuery. Passionate about high-availability systems, cloud-native patterns, and delivering measurable business impact.Seeking to contribute engineering excellence to high-growth product teams.
+
+
+Experience
+======
+Module Lead
+TEKsystems Global Services
+03/2022 - Ongoing
+Bangalore
+ - Migrated critical backend workflows from DB2 to PostgreSQL in a Spring Boot system for T Rowe Price, reducing legacy dependency and improving query latency by 30%.
+ - Migrated critical store replenishment application from legacy system such as mainframe to Spark on BigQuery which resulted in cost,time-saving and improved performance. Redesigned Kafka-based services to improve throughput and enhance security posture for Walmart.
+ - Supported critical ad-hoc tasks including renewing expiring certificates and updating config managers, ensuring 99.99% uptime for 20+ prod apps. Added Visualization using Grafana.
+ - Upgraded Spring Boot services from Java 8 to Java 21, resolving 100+ security vulnerabilities and enabling modern language features.
+
+Engr III Cslt-Software Devt
+Verizon
+10/2021 - 03/2022
+Chennai
+ - Resolved over 100 minor production bugs, enhancing application stability and user experience.
+ - Increased code coverage from 0% to 80% by implementing reactive test cases using Mockito and JUnit.
+ - Addressed, fixed, validated 1,000+ SonarQube issues, significantly improving code quality and maintainability.
+ - Utilized Spring Web Flux to develop reactive applications.
+
+Senior Software Engineer
+Accenture
+04/2019 - 10/2021
+Bangalore
+ - Maintained and enhanced Wendy's legacy application by implementing new features and troubleshot and resolved bugs, improving overall system reliability
+ - Achieved increase in system scalability by transforming payment and order management logic into 15 microservices using object-oriented programming and participating in all SDLC phases
+ - Developed robust secured backend services using Java, Spring Boot, and AWS (DynamoDB), Caching (Redis) achieving 90% code coverage with Mockito and JUnit
+ - Executed scheduled job workflows using AWS Lambda, reducing manual maintenance and supporting serverless automation in cloud-based services
+ - Participated in release management processes, reviews ensuring timely and efficient deployment of application updates
+
+Junior Software Engineer
+GAD A GET Computers
+01/2017 - 04/2019
+Chennai
+ - Delivered 25% improvement in software functionality across internal tools and client projects using Java.
+ - Built IVR solutions using AWS Text-to-Speech API, enhancing call center automation that reduced cost and time up to 20%.
+ - Developed speech-to-text pipeline for customer-agent conversation, generating Excel reports for training and QA purposes.
+
+
+Education
+======
+Bachelor of Engineering, Computer Science and Engineering
+Sathyabama University
+08/2012 - 04/2016
+
+
+Skills
+======
+Languages & Frameworks
+ - Core Java
+ - SQL
+ - SpringBoot
+ - JUnit
+ - Mockito
+ - Maven
+ - Git
+ - Microservices
+
+Cloud & Infra
+ - AWS (Lambda
+ - S3
+ - DynamoDB)
+ - GCP (BigQuery)
+ - Docker
+ - Kubernetes
+
+Data & Messaging
+ - Apache Kafka
+ - Apache Spark
+ - Redis
+
+Dev Tools & Testing
+ - Git
+ - Postman
+ - Selenium
+ - Grafana
+ - GitHub Copilot
+
+
+Certification
+======
+AWS Solution Architect Associate | SAA-C03
+ Valid through Nov 2025
+
